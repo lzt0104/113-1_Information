@@ -1,0 +1,222 @@
+﻿@{
+    ViewData["Title"] = "註冊";
+}
+
+<div class="container my-5">
+    <div class="card shadow-sm p-4 mx-auto" style="max-width: 600px;">
+        <h2 class="text-center mb-4">註冊</h2>
+        <form method="post" enctype="multipart/form-data" asp-controller="Account" asp-action="Register">
+            <div class="mb-3">
+                <label for="id" class="form-label">帳號</label>
+                <input type="text" class="form-control" id="id" name="id" required>
+            </div>
+            <div class="mb-3">
+                <label for="fullName" class="form-label">姓名</label>
+                <input type="text" class="form-control" id="fullName" name="FullName" required>
+            </div>
+            <div class="mb-3">
+                <label for="school" class="form-label">就讀學校</label>
+                <input type="text" class="form-control" id="school" name="School" required>
+            </div>
+            <div class="mb-3">
+                <label for="group" class="form-label">就讀群別</label>
+                <select class="form-select" id="group" name="Group" required>
+                    <option value="">請選擇</option>
+                    <option value="機械群">機械群</option>
+                    <option value="動力機械群">動力機械群</option>
+                    <option value="電機與電子群">電機與電子群</option>
+                    <option value="化工群">化工群</option>
+                    <option value="土木與建築群">土木與建築群</option>
+                    <option value="商業與管理群">商業與管理群</option>
+                    <option value="外語群">外語群</option>
+                    <option value="設計群">設計群</option>
+                    <option value="農業群">農業群</option>
+                    <option value="食品群">食品群</option>
+                    <option value="家政群">家政群</option>
+                    <option value="餐旅群">餐旅群</option>
+                    <option value="水產群">水產群</option>
+                    <option value="海事群">海事群</option>
+                    <option value="藝術群">藝術群</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="department" class="form-label">就讀科別</label>
+                <select class="form-select" id="department" name="Department" required>
+                    <option value="">請選擇</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="email" class="form-label">電子郵件</label>
+                <input type="email" class="form-control" id="email" name="Email" required>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">密碼</label>
+                <input type="password" class="form-control" id="password" name="Password" required>
+            </div>
+            <div class="mb-3">
+                <label for="confirmPassword" class="form-label">驗證密碼</label>
+                <input type="password" class="form-control" id="confirmPassword" name="ConfirmPassword" required>
+            </div>
+            <div class="mb-3">
+                <label for="qualification" class="form-label">資格</label>
+                <select class="form-select" id="qualification" name="Qualification" required>
+                    <option value="">請選擇</option>
+                    <option value="全國技藝競賽－商業類">全國技藝競賽－商業類</option>
+                    <option value="全國技藝競賽－工業類">全國技藝競賽－工業類</option>
+                    <option value="全國技藝競賽－農業類">全國技藝競賽－農業類</option>
+                    <option value="全國技藝競賽－海事類">全國技藝競賽－海事類</option>
+                    <option value="全國技藝競賽－家政類">全國技藝競賽－家政類</option>
+                    <option value="全國技能競賽">全國技能競賽</option>
+                    <option value="全國群科專題競賽">全國群科專題競賽</option>
+                    <option value="其他">其他</option>
+                </select>
+            </div>
+            <div class="mb-3" id="otherQualificationContainer" style="display: none;">
+                <label for="otherQualification" class="form-label">其他類型</label>
+                <input type="text" class="form-control" id="otherQualification" name="OtherQualification">
+            </div>
+            <div class="mb-3">
+                <label for="studentCard" class="form-label">上傳學生證</label>
+                <input type="file" class="form-control" id="studentCard" name="StudentCard" accept="image/*" required>
+            </div>
+            <button type="submit" class="btn btn-primary w-100" asp-controller="Account" asp-action="NewMember">註冊</button>
+        </form>
+    </div>
+</div>
+
+<script>
+    document.getElementById('group').addEventListener('change', function () {
+        const department = document.getElementById('department');
+        department.innerHTML = '<option value="">請選擇</option>';
+
+        if (this.value === '機械群') {
+            department.innerHTML += `
+            <option value="機械科">機械科</option>
+            <option value="鑄造科">鑄造科</option>
+            <option value="板金科">板金科</option>
+            <option value="機械木模科">機械木模科</option>
+            <option value="配管科">配管科</option>
+            <option value="模具科">模具科</option>
+            <option value="機電科">機電科</option>
+            <option value="製圖科">製圖科</option>
+            <option value="生物產業機電科">生物產業機電科</option>
+            <option value="電腦機械製圖科">電腦機械製圖科</option>`;
+        } else if (this.value === '動力機械群') {
+            department.innerHTML += `
+            <option value="汽車科">汽車科</option>
+            <option value="重機科">重機科</option>
+            <option value="飛機修護科">飛機修護科</option>
+            <option value="動力機械科">動力機械科</option>
+            <option value="農業機械科">農業機械科</option>
+            <option value="軌道車輛科">軌道車輛科</option>`;
+        } else if (this.value === '電機與電子群') {
+            department.innerHTML += `
+            <option value="資訊科">資訊科</option>
+            <option value="電子科">電子科</option>
+            <option value="控制科">控制科</option>
+            <option value="電機科">電機科</option>
+            <option value="冷凍空調科">冷凍空調科</option>
+            <option value="航空電子科">航空電子科</option>
+            <option value="電機空調科">電機空調科</option>`;
+        } else if (this.value === '化工群') {
+            department.innerHTML += `
+            <option value="化工科">化工科</option>
+            <option value="紡織科">紡織科</option>
+            <option value="染整科">染整科</option>`;
+        } else if (this.value === '土木與建築群') {
+            department.innerHTML += `
+            <option value="建築科">建築科</option>
+            <option value="土木科">土木科</option>
+            <option value="消防工程科">消防工程科</option>
+            <option value="空間測繪科">空間測繪科</option>`;
+        } else if (this.value === '商業與管理群') {
+            department.innerHTML += `
+            <option value="商業經營科">商業經營科</option>
+            <option value="國際貿易科">國際貿易科</option>
+            <option value="會計事務科">會計事務科</option>
+            <option value="資料處理科">資料處理科</option>
+            <option value="不動產事務科">不動產事務科</option>
+            <option value="電子商務科">電子商務科</option>
+            <option value="流通管理科">流通管理科</option>
+            <option value="農產行銷科">農產行銷科</option>
+            <option value="航運管理科">航運管理科</option>`;
+        } else if (this.value === '外語群') {
+            department.innerHTML += `
+            <option value="應用外語科（英文組）">應用外語科（英文組）</option>
+            <option value="應用外語科（日文組）">應用外語科（日文組）</option>`;
+        } else if (this.value === '設計群') {
+            department.innerHTML += `
+            <option value="家具木工科">家具木工科</option>
+            <option value="美工科">美工科</option>
+            <option value="陶瓷工程科">陶瓷工程科</option>
+            <option value="室內空間設計科">室內空間設計科</option>
+            <option value="圖文傳播科">圖文傳播科</option>
+            <option value="金屬工藝科">金屬工藝科</option>
+            <option value="家具設計科">家具設計科</option>
+            <option value="廣告設計科">廣告設計科</option>
+            <option value="多媒體設計科">多媒體設計科</option>
+            <option value="多媒體應用科">多媒體應用科</option>
+            <option value="室內設計科">室內設計科</option>`;
+        } else if (this.value === '農業群') {
+            department.innerHTML += `
+            <option value="農場經營科">農場經營科</option>
+            <option value="園藝科">園藝科</option>
+            <option value="森林科">森林科</option>
+            <option value="野生動物保育科">野生動物保育科</option>
+            <option value="造園科">造園科</option>
+            <option value="畜產保健科">畜產保健科</option>`;
+        } else if (this.value === '食品群') {
+            department.innerHTML += `
+            <option value="食品加工科">食品加工科</option>
+            <option value="食品科">食品科</option>
+            <option value="水產食品科">水產食品科</option>
+            <option value="烘焙科">烘焙科</option>`;
+        } else if (this.value === '家政群') {
+            department.innerHTML += `
+            <option value="家政科">家政科</option>
+            <option value="服裝科">服裝科</option>
+            <option value="幼兒保育科">幼兒保育科</option>
+            <option value="美容科">美容科</option>
+            <option value="時尚模特兒科">時尚模特兒科</option>
+            <option value="流行服飾科">流行服飾科</option>
+            <option value="時尚造型科">時尚造型科</option>
+            <option value="照顧服務科">照顧服務科</option>`;
+        } else if (this.value === '餐旅群') {
+            department.innerHTML += `
+            <option value="觀光事業科">觀光事業科</option>
+            <option value="餐飲管理科">餐飲管理科</option>`;
+        } else if (this.value === '水產群') {
+            department.innerHTML += `
+            <option value="漁業科">漁業科</option>
+            <option value="水產養殖科">水產養殖科</option>`;
+        } else if (this.value === '海事群') {
+            department.innerHTML += `
+            <option value="輪機科">輪機科</option>
+            <option value="航海科">航海科</option>`;
+        } else if (this.value === '藝術群') {
+            department.innerHTML += `
+            <option value="戲劇科">戲劇科</option>
+            <option value="音樂科">音樂科</option>
+            <option value="舞蹈科">舞蹈科</option>
+            <option value="美術科">美術科</option>
+            <option value="影劇科">影劇科</option>
+            <option value="西樂科">西樂科</option>
+            <option value="國樂科">國樂科</option>
+            <option value="電影電視科">電影電視科</option>
+            <option value="表演藝術科">表演藝術科</option>
+            <option value="多媒體動畫科">多媒體動畫科</option>
+            <option value="時尚工藝科">時尚工藝科</option>`;
+        }
+
+
+    });
+
+    document.getElementById('qualification').addEventListener('change', function () {
+        const otherQualification = document.getElementById('otherQualificationContainer');
+        if (this.value === '其他') {
+            otherQualification.style.display = 'block';
+        } else {
+            otherQualification.style.display = 'none';
+        }
+    });
+</script>

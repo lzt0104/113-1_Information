@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\First Test Wevb.props" />
+</Project>

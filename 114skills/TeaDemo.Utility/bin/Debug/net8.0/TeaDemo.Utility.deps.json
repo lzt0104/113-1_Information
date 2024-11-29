@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TeaDemo.Utility/1.0.0": {
+        "runtime": {
+          "TeaDemo.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeaDemo.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
