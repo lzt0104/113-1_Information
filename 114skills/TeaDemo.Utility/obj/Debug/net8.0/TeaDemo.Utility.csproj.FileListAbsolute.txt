@@ -9,3 +9,15 @@ C:\Users\zheng_0u83rfc\source\repos\114skills\TeaDemo.Utility\obj\Debug\net8.0\T
 C:\Users\zheng_0u83rfc\source\repos\114skills\TeaDemo.Utility\obj\Debug\net8.0\refint\TeaDemo.Utility.dll
 C:\Users\zheng_0u83rfc\source\repos\114skills\TeaDemo.Utility\obj\Debug\net8.0\TeaDemo.Utility.pdb
 C:\Users\zheng_0u83rfc\source\repos\114skills\TeaDemo.Utility\obj\Debug\net8.0\ref\TeaDemo.Utility.dll
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\bin\Debug\net8.0\TeaDemo.Utility.deps.json
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\bin\Debug\net8.0\TeaDemo.Utility.dll
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\bin\Debug\net8.0\TeaDemo.Utility.pdb
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\TeaDemo.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\TeaDemo.Utility.AssemblyInfoInputs.cache
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\TeaDemo.Utility.AssemblyInfo.cs
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\TeaDemo.Utility.csproj.CoreCompileInputs.cache
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\TeaDemo.Utility.sourcelink.json
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\TeaDemo.Utility.dll
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\refint\TeaDemo.Utility.dll
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\TeaDemo.Utility.pdb
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\ref\TeaDemo.Utility.dll

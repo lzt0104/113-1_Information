@@ -1,0 +1,70 @@
+﻿@model List<Product>
+<partial name="_Notification" />
+
+<div class="container">
+    <!-- Header Section -->
+    <div class="row pt-4 pb-3 align-items-center">
+        <div class="col-md-6">
+            <h2 class="text-primary">產品清單</h2>
+        </div>
+        <div class="col-md-6 text-end">
+            <!-- Search Form -->
+            <form asp-controller="Product" asp-action="IndexSearching" method="get" class="d-inline">
+                <input type="text" name="searchString" class="form-control d-inline w-auto"
+                       value="@ViewData["CurrentFilter"]" placeholder="搜尋產品名稱" />
+                <button type="submit" class="btn btn-primary">
+                    <i class="bi bi-search"></i> 搜尋
+                </button>
+            </form>
+            <!-- Add Product Button -->
+            <a asp-controller="Product" asp-action="Create" class="btn btn-success ms-2">
+                <i class="bi bi-plus-circle"></i> 新增產品
+            </a>
+        </div>
+    </div>
+
+    <!-- Product Table -->
+    <table class="table table-bordered table-striped text-center">
+        <thead class="table-primary">
+            <tr>
+                <th>產品名稱</th>
+                <th>類別</th>
+                <th>大小</th>
+                <th>價格</th>
+                <th>備註</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td>@obj.Name</td>
+                        <td></td>
+                        <td>@obj.Size</td>
+                        <td>@obj.Price</td>
+                        <td>@obj.Description</td>
+                        <td>
+                            <div class="btn-group" role="group">
+                                <a asp-controller="Product" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-warning mx-1">
+                                    <i class="bi bi-pencil-square"></i> 編輯
+                                </a>
+                                <a asp-controller="Product" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-1">
+                                    <i class="bi bi-trash-fill"></i> 刪除
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6" class="text-muted">沒有找到相關的產品資料。</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

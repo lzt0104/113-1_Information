@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zheng_0u83rfc\\source\\repos\\114skills\\TeaDemo.Utility\\TeaDemo.Utility.csproj": {}
+    "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\TeaDemo.Utility\\TeaDemo.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zheng_0u83rfc\\source\\repos\\114skills\\TeaDemo.Utility\\TeaDemo.Utility.csproj": {
+    "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\TeaDemo.Utility\\TeaDemo.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zheng_0u83rfc\\source\\repos\\114skills\\TeaDemo.Utility\\TeaDemo.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\TeaDemo.Utility\\TeaDemo.Utility.csproj",
         "projectName": "TeaDemo.Utility",
-        "projectPath": "C:\\Users\\zheng_0u83rfc\\source\\repos\\114skills\\TeaDemo.Utility\\TeaDemo.Utility.csproj",
+        "projectPath": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\TeaDemo.Utility\\TeaDemo.Utility.csproj",
         "packagesPath": "C:\\Users\\zheng_0u83rfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zheng_0u83rfc\\source\\repos\\114skills\\TeaDemo.Utility\\obj\\",
+        "outputPath": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\TeaDemo.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zheng_0u83rfc\\AppData\\Roaming\\NuGet\\NuGet.Config",
