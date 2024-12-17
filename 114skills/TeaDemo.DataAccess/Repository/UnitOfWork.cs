@@ -1,19 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TeaDemo.DataAccess.Repository.IRepository;
 
 namespace TeaDemo.DataAccess.Repository
 {
     public class UnitOfWork : IUnitOfWork
     {
-        private ApplicationDbContext _db;
+        private readonly ApplicationDbContext _db;
+
+        // 實現 IUnitOfWork 中的 Repository 屬性
         public ICategoryRepository Category { get; private set; }
         public IProductRepository Product { get; private set; }
-
-        public ICategoryRepository CategoryRepository => throw new NotImplementedException();
 
         public UnitOfWork(ApplicationDbContext db)
         {

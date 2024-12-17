@@ -581,3 +581,6 @@ C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\114skills.csproj.Up2Date
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\114skills.genruntimeconfig.cache
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\ref\114skills.dll
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\114skills.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

@@ -70,9 +70,19 @@ namespace TeaDemo.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -87,33 +97,20 @@ namespace TeaDemo.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Products");
+                    b.HasIndex("CategoryId");
 
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Description = "台灣在地水果茶",
-                            Name = "水果茶",
-                            Price = 60.0,
-                            Size = "大杯"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Description = "來自桃園觀音的茶",
-                            Name = "鐵觀音",
-                            Price = 35.0,
-                            Size = "中杯"
-                        },
-                        new
-                        {
-                            Id = 3,
-                            Description = "提神好茶",
-                            Name = "美式咖啡",
-                            Price = 50.0,
-                            Size = "中杯"
-                        });
+                    b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("TeaDemo.Models.Product", b =>
+                {
+                    b.HasOne("TeaDemo.Models.Category", "Category")
+                        .WithMany()
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }

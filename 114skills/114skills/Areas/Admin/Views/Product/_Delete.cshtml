@@ -1,0 +1,56 @@
+﻿@model Product
+
+<div class="border p-3 mt-4">
+    <div class="row pb-2">
+        <h2 class="text-primary">刪除產品</h2>
+        <hr />
+    </div>
+    <div class="mb-3 row p-1">
+        <label asp-for="Name" class="p-0"></label>
+        <input asp-for="Name" class="form-control" readonly />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3 row p-1">
+        <label asp-for="Size" class="p-0"></label>
+        <input asp-for="Size" class="form-control" readonly />
+        <span asp-validation-for="Size" class="text-danger"></span>
+    </div>
+    <div class="mb-3 row p-1">
+        <label asp-for="Price" class="p-0"></label>
+        <input asp-for="Price" class="form-control" readonly />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="mb-3 row p-1">
+        <label asp-for="Description" class="p-0"></label>
+        <input asp-for="Description" class="form-control" readonly />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="row">
+        <!-- 真刪除表單 -->
+        <form method="post" asp-area="Admin" asp-controller="Product" asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+            <div class="col-6 col-md-3">
+                <button type="submit" class="btn btn-danger form-control">刪除</button>
+            </div>
+        </form>
+
+        <!-- 假刪除表單 -->
+        <form method="post" asp-area="Admin" asp-controller="Product" asp-action="Deleted">
+            <input type="hidden" asp-for="Id" />
+            <div class="col-6 col-md-3">
+                <button type="submit" class="btn btn-warning form-control">假刪除</button>
+            </div>
+        </form>
+
+        <!-- 返回按鈕 -->
+        <div class="col-6 col-md-3">
+            <a asp-area="Admin" asp-controller="Product" asp-action="Index" class="btn btn-secondary border form-control">
+                返回
+            </a>
+        </div>
+    </div>
+
+</div>
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial")
+}
