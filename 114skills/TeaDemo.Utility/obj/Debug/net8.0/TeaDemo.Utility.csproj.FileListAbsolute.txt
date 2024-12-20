@@ -21,3 +21,4 @@ C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utili
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\refint\TeaDemo.Utility.dll
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\TeaDemo.Utility.pdb
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\ref\TeaDemo.Utility.dll
+C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Utility\obj\Debug\net8.0\TeaDemo.Utility.csproj.AssemblyReference.cache

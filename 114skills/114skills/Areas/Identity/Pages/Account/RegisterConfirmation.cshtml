@@ -1,0 +1,31 @@
+﻿@page
+@model RegisterConfirmationModel
+@{
+    ViewData["Title"] = "註冊確認";
+}
+
+<h1 class="text-center mt-5">@ViewData["Title"]</h1>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8 col-md-10">
+            @if (@Model.DisplayConfirmAccountLink)
+            {
+                <div class="alert alert-warning text-center">
+                    <p>
+                        此應用程式尚未配置真實的電子郵件發送服務，請參閱 <a href="https://aka.ms/aspaccountconf" class="text-primary">相關文件</a> 了解如何配置。
+                    </p>
+                    <p>
+                        一般情況下，這將通過電子郵件發送：<br />
+                        <a id="confirm-link" href="@Model.EmailConfirmationUrl" class="btn btn-link">點擊此處以確認您的帳戶</a>
+                    </p>
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-info text-center">
+                    <p>請檢查您的電子郵件以確認帳戶。</p>
+                </div>
+            }
+        </div>
+    </div>
+</div>

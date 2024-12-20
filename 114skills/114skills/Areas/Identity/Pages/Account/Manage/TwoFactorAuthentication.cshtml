@@ -1,0 +1,73 @@
+﻿@page
+@using Microsoft.AspNetCore.Http.Features
+@model TwoFactorAuthenticationModel
+@{
+    ViewData["Title"] = "雙因素驗證 (2FA)";
+    ViewData["ActivePage"] = ManageNavPages.TwoFactorAuthentication;
+}
+
+<partial name="_StatusMessage" for="StatusMessage" />
+<h3 class="text-center mt-5">@ViewData["Title"]</h3>
+<div class="container mt-5">
+    @{
+        var consentFeature = HttpContext.Features.Get<ITrackingConsentFeature>();
+        if (consentFeature?.CanTrack ?? true)
+        {
+            if (Model.Is2faEnabled)
+            {
+                if (Model.RecoveryCodesLeft == 0)
+                {
+                    <div class="alert alert-danger">
+                        <strong>您已經沒有剩餘的恢復碼。</strong>
+                        <p>您必須 <a asp-page="./GenerateRecoveryCodes" class="text-primary">生成新的恢復碼</a>，才能使用恢復碼登入。</p>
+                    </div>
+                }
+                else if (Model.RecoveryCodesLeft == 1)
+                {
+                    <div class="alert alert-danger">
+                        <strong>您只剩 1 個恢復碼。</strong>
+                        <p>您可以 <a asp-page="./GenerateRecoveryCodes" class="text-primary">生成新的恢復碼</a>。</p>
+                    </div>
+                }
+                else if (Model.RecoveryCodesLeft <= 3)
+                {
+                    <div class="alert alert-warning">
+                        <strong>您剩餘 @Model.RecoveryCodesLeft 個恢復碼。</strong>
+                        <p>建議您 <a asp-page="./GenerateRecoveryCodes" class="text-primary">生成新的恢復碼</a>。</p>
+                    </div>
+                }
+
+                if (Model.IsMachineRemembered)
+                {
+                    <form method="post" style="display: inline-block">
+                        <button type="submit" class="btn btn-primary">忘記此瀏覽器</button>
+                    </form>
+                }
+                <a asp-page="./Disable2fa" class="btn btn-primary">停用雙因素驗證</a>
+                <a asp-page="./GenerateRecoveryCodes" class="btn btn-primary">重設恢復碼</a>
+            }
+
+            <h4>驗證器應用程式</h4>
+            if (!Model.HasAuthenticator)
+            {
+                <a id="enable-authenticator" asp-page="./EnableAuthenticator" class="btn btn-primary">新增驗證器應用程式</a>
+            }
+            else
+            {
+                <a id="enable-authenticator" asp-page="./EnableAuthenticator" class="btn btn-primary">設定驗證器應用程式</a>
+                <a id="reset-authenticator" asp-page="./ResetAuthenticator" class="btn btn-primary">重設驗證器應用程式</a>
+            }
+        }
+        else
+        {
+            <div class="alert alert-danger">
+                <strong>尚未接受隱私與 Cookie 政策。</strong>
+                <p>您必須接受政策後才能啟用雙因素驗證。</p>
+            </div>
+        }
+    }
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -3,64 +3,140 @@
   "WorkspaceRootPath": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06243B68-90D5-4208-89AB-45E98C2FDEB4}|TeaDemo.Models\\TeaDemo.Models.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06243B68-90D5-4208-89AB-45E98C2FDEB4}|TeaDemo.Models\\TeaDemo.Models.csproj|solutionrelative:teademo.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06243B68-90D5-4208-89AB-45E98C2FDEB4}|TeaDemo.Models\\TeaDemo.Models.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06243B68-90D5-4208-89AB-45E98C2FDEB4}|TeaDemo.Models\\TeaDemo.Models.csproj|solutionrelative:teademo.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|solutionrelative:teademo.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|solutionrelative:teademo.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|solutionrelative:teademo.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|solutionrelative:teademo.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06243B68-90D5-4208-89AB-45E98C2FDEB4}|TeaDemo.Models\\TeaDemo.Models.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06243B68-90D5-4208-89AB-45E98C2FDEB4}|TeaDemo.Models\\TeaDemo.Models.csproj|solutionrelative:teademo.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|solutionrelative:teademo.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F483F7-63D2-4B09-9CF0-D0B9CBDBA257}|TeaDemo.Utility\\TeaDemo.Utility.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F483F7-63D2-4B09-9CF0-D0B9CBDBA257}|TeaDemo.Utility\\TeaDemo.Utility.csproj|solutionrelative:teademo.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F483F7-63D2-4B09-9CF0-D0B9CBDBA257}|TeaDemo.Utility\\TeaDemo.Utility.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F483F7-63D2-4B09-9CF0-D0B9CBDBA257}|TeaDemo.Utility\\TeaDemo.Utility.csproj|solutionrelative:teademo.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|solutionrelative:teademo.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\114skills\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7359BC86-E876-4282-B66F-287B86311E94}|114skills\\114skills.csproj|solutionrelative:114skills\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.dataaccess\\migrations\\20241220175510_updatenametobestringapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|solutionrelative:teademo.dataaccess\\migrations\\20241220175510_updatenametobestringapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|c:\\users\\zheng_0u83rfc\\onedrive\\\u6587\u4EF6\\113-1_information\\114skills\\teademo.dataaccess\\migrations\\20241220165755_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36778E5-D21A-43F5-AE5F-2CB77C3AF564}|TeaDemo.DataAccess\\TeaDemo.DataAccess.csproj|solutionrelative:teademo.dataaccess\\migrations\\20241220165755_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,191 +155,411 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "product.js",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\wwwroot\\js\\product.js",
-              "RelativeDocumentMoniker": "114skills\\wwwroot\\js\\product.js",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\wwwroot\\js\\product.js",
-              "RelativeToolTip": "114skills\\wwwroot\\js\\product.js",
-              "ViewState": "AgIAABoAAAAAAAAAAAAhwCEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-17T04:56:19.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "TeaDemo.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Repository\\Repository.cs",
-              "RelativeToolTip": "TeaDemo.DataAccess\\Repository\\Repository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAMwAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:17:31.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "TeaDemo.DataAccess\\Repository\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "TeaDemo.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T18:12:11.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Upsert.cshtml",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "RelativeDocumentMoniker": "114skills\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "RelativeToolTip": "114skills\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T17:08:16.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.Models\\Product.cs",
-              "RelativeDocumentMoniker": "TeaDemo.Models\\Product.cs",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.Models\\Product.cs",
-              "RelativeToolTip": "TeaDemo.Models\\Product.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:46:25.201Z",
+              "WhenOpened": "2024-12-20T17:56:24.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:03:39.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:10:27.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonalData.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:05:11.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:04:29.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:10:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:16:39.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:05:52.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:10:08.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:09:48.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWith2fa.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:09:19.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginWithRecoveryCode.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:08:46.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:08:06.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResendEmailConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:07:38.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:07:04.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T17:08:14.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T18:06:35.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T17:10:32.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241220175510_updateNameToBeStringApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Migrations\\20241220175510_updateNameToBeStringApplicationUser.cs",
+              "RelativeDocumentMoniker": "TeaDemo.DataAccess\\Migrations\\20241220175510_updateNameToBeStringApplicationUser.cs",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Migrations\\20241220175510_updateNameToBeStringApplicationUser.cs",
+              "RelativeToolTip": "TeaDemo.DataAccess\\Migrations\\20241220175510_updateNameToBeStringApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:55:10.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "114skills\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "114skills\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAM0AAAAAAAAAAIAwwNcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:26:54.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T17:45:32.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "114skills\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "114skills\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T17:56:12.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "114skills\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "114skills\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADEAAAAAAAAAAAAewDsAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:30:39.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "TeaDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeToolTip": "TeaDemo.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "114skills\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:23:51.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T17:44:47.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "TeaDemo.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "TeaDemo.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAADwvy0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T16:39:16.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "114skills\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "114skills\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T17:22:43.344Z"
+              "WhenOpened": "2024-12-20T17:41:51.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.Models\\ViewModels\\ProductVM.cs",
-              "RelativeDocumentMoniker": "TeaDemo.Models\\ViewModels\\ProductVM.cs",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.Models\\ViewModels\\ProductVM.cs",
-              "RelativeToolTip": "TeaDemo.Models\\ViewModels\\ProductVM.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Program.cs",
+              "RelativeDocumentMoniker": "114skills\\Program.cs",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Program.cs",
+              "RelativeToolTip": "114skills\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAnwC0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T17:18:13.83Z"
+              "WhenOpened": "2024-12-20T16:52:07.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "114skills\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowJEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:03:52.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TeaDemo.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "TeaDemo.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:59:12.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "114skills\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "114skills\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T17:42:02.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "114skills\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T17:41:57.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "114skills\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "114skills\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T17:21:48.597Z"
+              "WhenOpened": "2024-12-20T17:41:23.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "TeaDemo.DataAccess\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "TeaDemo.DataAccess\\Repository\\CategoryRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBUAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "TeaDemo.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.Utility\\SD.cs",
+              "RelativeToolTip": "TeaDemo.Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:24:32.627Z"
+              "WhenOpened": "2024-12-20T17:17:05.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "114skills\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "114skills\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "TeaDemo.Utility\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.Utility\\EmailSender.cs",
+              "RelativeToolTip": "TeaDemo.Utility\\EmailSender.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T10:32:56.653Z"
+              "WhenOpened": "2024-12-20T17:20:07.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241220165755_addIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Migrations\\20241220165755_addIdentityTables.cs",
+              "RelativeDocumentMoniker": "TeaDemo.DataAccess\\Migrations\\20241220165755_addIdentityTables.cs",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Migrations\\20241220165755_addIdentityTables.cs",
+              "RelativeToolTip": "TeaDemo.DataAccess\\Migrations\\20241220165755_addIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:57:55.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "114skills\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "114skills\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-20T16:50:19.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TeaDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\TeaDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TeaDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:46:53.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\appsettings.json",
+              "RelativeDocumentMoniker": "114skills\\appsettings.json",
+              "ToolTip": "C:\\Users\\zheng_0u83rfc\\OneDrive\\\u6587\u4EF6\\113-1_Information\\114skills\\114skills\\appsettings.json",
+              "RelativeToolTip": "114skills\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T16:52:43.858Z"
             }
           ]
         }

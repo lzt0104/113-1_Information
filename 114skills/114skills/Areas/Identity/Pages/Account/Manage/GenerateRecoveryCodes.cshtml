@@ -1,0 +1,26 @@
+﻿@page
+@model GenerateRecoveryCodesModel
+@{
+    ViewData["Title"] = "生成雙因素驗證 (2FA) 恢復碼";
+    ViewData["ActivePage"] = ManageNavPages.TwoFactorAuthentication;
+}
+
+<partial name="_StatusMessage" for="StatusMessage" />
+<h3 class="text-center mt-5">@ViewData["Title"]</h3>
+<div class="alert alert-warning mt-4" role="alert">
+    <p>
+        <span class="glyphicon glyphicon-warning-sign"></span>
+        <strong>請將這些恢復碼保存在安全的地方。</strong>
+    </p>
+    <p>
+        如果您遺失了設備且沒有恢復碼，您將無法訪問您的帳戶。
+    </p>
+    <p>
+        生成新的恢復碼不會更改驗證器應用程式中使用的金鑰。如果您希望更改驗證器應用程式中使用的金鑰，請 <a asp-page="./ResetAuthenticator" class="text-primary">重設您的驗證器金鑰</a>。
+    </p>
+</div>
+<div class="text-center mt-5">
+    <form method="post">
+        <button class="btn btn-danger btn-lg" type="submit">生成恢復碼</button>
+    </form>
+</div>

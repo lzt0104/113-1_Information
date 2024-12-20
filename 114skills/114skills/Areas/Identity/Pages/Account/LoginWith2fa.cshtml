@@ -1,0 +1,39 @@
+﻿@page
+@model LoginWith2faModel
+@{
+    ViewData["Title"] = "雙因素驗證";
+}
+
+<h1 class="text-center mt-5">@ViewData["Title"]</h1>
+<hr class="mb-5" />
+<p class="text-center text-muted">您的登入受驗證器應用程式保護。請在下方輸入驗證碼。</p>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-8">
+            <form method="post" asp-route-returnUrl="@Model.ReturnUrl" class="border rounded p-4 shadow-sm">
+                <input asp-for="RememberMe" type="hidden" />
+                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                <div class="form-floating mb-3">
+                    <input asp-for="Input.TwoFactorCode" class="form-control" autocomplete="off" placeholder="驗證碼" />
+                    <label asp-for="Input.TwoFactorCode" class="form-label">驗證碼</label>
+                    <span asp-validation-for="Input.TwoFactorCode" class="text-danger"></span>
+                </div>
+                <div class="form-check mb-3">
+                    <input class="form-check-input" asp-for="Input.RememberMachine" id="rememberMachine" />
+                    <label class="form-check-label" for="rememberMachine">記住此裝置</label>
+                </div>
+                <div>
+                    <button type="submit" class="w-100 btn btn-lg btn-primary">登入</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<p class="text-center mt-3">
+    無法存取您的驗證器裝置？您可以
+    <a id="recovery-code-login" asp-page="./LoginWithRecoveryCode" asp-route-returnUrl="@Model.ReturnUrl" class="text-primary">使用恢復碼登入</a>。
+</p>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
