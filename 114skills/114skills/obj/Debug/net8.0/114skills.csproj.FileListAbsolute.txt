@@ -297,7 +297,6 @@ C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\114skills.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\114skills.RazorAssemblyInfo.cache
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\114skills.RazorAssemblyInfo.cs
-C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\114skills.sourcelink.json
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\114skills.dll
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\refint\114skills.dll
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\114skills\obj\Debug\net8.0\114skills.pdb

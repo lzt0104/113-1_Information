@@ -11,33 +11,33 @@
                     <hr />
                 </div>
                 <div class="mb-3 row p-1">
-                    <label asp-for="Product.Name" class="p-0"></label>
+                    <label asp-for="Product.Name" class="p-0">產品名稱</label>
                     <input asp-for="Product.Name" class="form-control" />
                     <span asp-validation-for="Product.Name" class="text-danger"></span>
                 </div>
                 <div class="mb-3 row p-1">
-                    <label asp-for="Product.CategoryId" class="p-0"></label>
+                    <label asp-for="Product.CategoryId" class="p-0">產品類別</label>
                     <select asp-for="@Model.Product.CategoryId" asp-items="@Model.CategoryList" class="form-select">
                         <option disabled selected>選擇類別</option>
                     </select>
                     <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
                 </div>
                 <div class="mb-3 row p-1">
-                    <label asp-for="Product.Size" class="p-0"></label>
+                    <label asp-for="Product.Size" class="p-0">尺寸</label>
                     <input asp-for="Product.Size" class="form-control" />
                     <span asp-validation-for="Product.Size" class="text-danger"></span>
                 </div>
                 <div class="mb-3 row p-1">
-                    <label asp-for="Product.Price" class="p-0"></label>
+                    <label asp-for="Product.Price" class="p-0">價格</label>
                     <input asp-for="Product.Price" class="form-control" />
                     <span asp-validation-for="Product.Price" class="text-danger"></span>
                 </div>
                 <div class="mb-3 row p-1">
-                    <label asp-for="Product.ImageUrl" class="p-0"></label>
+                    <label asp-for="Product.ImageUrl" class="p-0">產品圖片</label>
                     <input type="file" name="file" asp-for="Product.ImageUrl" class="form-control" />
                 </div>
                 <div class="mb-3 row p-1">
-                    <label asp-for="Product.Description" class="p-0"></label>
+                    <label asp-for="Product.Description" class="p-0">描述</label>
                     <input asp-for="Product.Description" class="form-control" />
                     <span asp-validation-for="Product.Description" class="text-danger"></span>
                 </div>

@@ -9,11 +9,11 @@ function loadDataTable() {
             url: '/admin/product/getall'
         },
         "columns": [
-            { data: 'name', "width": "25%" },
+            { data: 'name', "width": "15%" },
             { data: 'category.name', "width": "15%" },
-            { data: 'size', "width": "10%" },
-            { data: 'price', "width": "15%" },
-            { data: 'description', "width": "10%" },
+            { data: 'size', "width": "5%" },
+            { data: 'price', "width": "5%" },
+            { data: 'description', "width": "20%" },
             {
                 data: 'id',
                 "render": function (data) {
@@ -22,7 +22,7 @@ function loadDataTable() {
                     <a onClick=Delete('/admin/product/delete/${data}') class="btn btn-danger mx-2"> <i class="bi bi-trash-fill"></i> Delete</a>
                     </div>`
                 },
-                "width": "15%"
+                "width": "25%"
             }
         ]
     });

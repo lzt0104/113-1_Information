@@ -124,18 +124,22 @@ namespace _114skills.Areas.Identity.Pages.Account
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_Admin)).GetAwaiter().GetResult();
             }
 
+            // 限制角色為指定的四個角色
+            var roles = new List<string> { SD.Role_Customer, SD.Role_Employee, SD.Role_Manager, SD.Role_Admin };
+
             Input = new()
             {
-                RoleList = _roleManager.Roles.Select(x => x.Name).Select(i => new SelectListItem
+                RoleList = roles.Select(role => new SelectListItem
                 {
-                    Text = i,
-                    Value = i
+                    Text = role,
+                    Value = role
                 })
             };
 
             ReturnUrl = returnUrl;
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
         }
+
 
         public async Task<IActionResult> OnPostAsync(string returnUrl = null)
         {

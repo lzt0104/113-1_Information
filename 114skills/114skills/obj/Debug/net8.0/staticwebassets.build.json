@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vJKiZ8QcKYdOnXDiRYYRogRYbJqrYqt2VkwZn6QwaMk=",
+  "Hash": "nKGDeDcFNIJXjcmxoYaLUP5Ix9NJ72m3Y8+rx6rVcMM=",
   "Source": "114skills",
   "BasePath": "_content/114skills",
   "Mode": "Default",
@@ -1233,25 +1233,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\114skills\\wwwroot\\images\\product\\01de216a-6950-4124-a809-eb505f3dc94d.png",
-      "SourceId": "114skills",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\114skills\\wwwroot\\",
-      "BasePath": "_content/114skills",
-      "RelativePath": "images/product/01de216a-6950-4124-a809-eb505f3dc94d.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\01de216a-6950-4124-a809-eb505f3dc94d.png"
-    },
-    {
       "Identity": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\114skills\\wwwroot\\images\\product\\1c781663-24cd-482e-be1d-ae806b13c7c0.png",
       "SourceId": "114skills",
       "SourceType": "Discovered",
@@ -1307,6 +1288,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\3cd40260-2e42-4968-9a90-169d8505cd38.png"
+    },
+    {
+      "Identity": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\114skills\\wwwroot\\images\\product\\3ee1d284-e978-4195-abc0-b41af9b7a649.png",
+      "SourceId": "114skills",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\114skills\\wwwroot\\",
+      "BasePath": "_content/114skills",
+      "RelativePath": "images/product/3ee1d284-e978-4195-abc0-b41af9b7a649.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\3ee1d284-e978-4195-abc0-b41af9b7a649.png"
     },
     {
       "Identity": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\114skills\\wwwroot\\images\\product\\b3b5ca5d-bb7b-45b4-9ca5-526688d413b5.png",
