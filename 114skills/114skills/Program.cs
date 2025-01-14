@@ -5,6 +5,7 @@ using TeaDemo.DataAccess.Repository.IRepository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using TeaDemo.Utility;
+using TeaDemo.DataAccess.Repository.IRepository.TeaDemo.DataAccess.Repository.IRepository;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TeaDemo.DataAccess.Repository.IRepository;
+using TeaDemo.DataAccess.Repository.IRepository.TeaDemo.DataAccess.Repository.IRepository;
 using TeaDemo.Models;
 using TeaDemo.Utility;
 

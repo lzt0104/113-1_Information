@@ -16,7 +16,6 @@ C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Model
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Models\obj\Debug\net8.0\TeaDemo.Models.AssemblyInfoInputs.cache
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Models\obj\Debug\net8.0\TeaDemo.Models.AssemblyInfo.cs
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Models\obj\Debug\net8.0\TeaDemo.Models.csproj.CoreCompileInputs.cache
-C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Models\obj\Debug\net8.0\TeaDemo.Models.sourcelink.json
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Models\obj\Debug\net8.0\TeaDemo.Models.dll
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Models\obj\Debug\net8.0\refint\TeaDemo.Models.dll
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.Models\obj\Debug\net8.0\TeaDemo.Models.pdb

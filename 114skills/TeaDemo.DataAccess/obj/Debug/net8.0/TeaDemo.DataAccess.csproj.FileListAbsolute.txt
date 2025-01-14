@@ -30,7 +30,6 @@ C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.DataA
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.DataAccess\obj\Debug\net8.0\TeaDemo.DataAccess.AssemblyInfoInputs.cache
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.DataAccess\obj\Debug\net8.0\TeaDemo.DataAccess.AssemblyInfo.cs
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.DataAccess\obj\Debug\net8.0\TeaDemo.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.DataAccess\obj\Debug\net8.0\TeaDemo.DataAccess.sourcelink.json
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.DataAccess\obj\Debug\net8.0\TeaDemo..6AE37B6F.Up2Date
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.DataAccess\obj\Debug\net8.0\TeaDemo.DataAccess.dll
 C:\Users\zheng_0u83rfc\OneDrive\文件\113-1_Information\114skills\TeaDemo.DataAccess\obj\Debug\net8.0\refint\TeaDemo.DataAccess.dll

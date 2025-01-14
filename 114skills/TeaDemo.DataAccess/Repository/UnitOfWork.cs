@@ -1,58 +1,40 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 using TeaDemo.DataAccess.Repository.IRepository;
+using TeaDemo.Models;
+using TeaTimeDemo.DataAccess.Repository.IRepository;
+using TeaTimeDemo.DataAccess.Repository;
+using TeaDemo.DataAccess.Repository.IRepository.TeaDemo.DataAccess.Repository.IRepository;
 
 namespace TeaDemo.DataAccess.Repository
 {
     // UnitOfWork 設計模式的實現，統一管理多個 Repository 的生命週期和資料庫操作
     public class UnitOfWork : IUnitOfWork
     {
-        private readonly ApplicationDbContext _db; // 資料庫上下文
+        // 應用程式的資料庫上下文 (Database Context) 引用
+        private ApplicationDbContext _db;
 
-        // 屬性，提供對不同實體的 Repository 訪問
-        public ICategoryRepository Category { get; private set; } // 分類相關的 Repository
-        public IProductRepository Product { get; private set; } // 產品相關的 Repository
+        // 每個具體的 Repository，通過屬性公開
+        public ICategoryRepository Category { get; private set; }
+        public IProductRepository Product { get; private set; }
+        public IShoppingCartRepository ShoppingCart { get; private set; }
+        public IApplicationUserRepository ApplicationUser { get; private set; }
 
-        // 建構子，初始化資料庫上下文和各個 Repository
+        // 建構子，初始化所有 Repository 並注入資料庫上下文
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
-
-            // 初始化各個 Repository，並傳入同一個資料庫上下文
-            Category = new CategoryRepository(_db);
-            Product = new ProductRepository(_db);
+            Category = new CategoryRepository(_db); // 類別 Repository 的初始化
+            Product = new ProductRepository(_db);   // 產品 Repository 的初始化
+            ShoppingCart = new ShoppingCartRepository(_db); // 購物車 Repository 的初始化
+            ApplicationUser = new ApplicationUserRepository(_db); // 使用者 Repository 的初始化
         }
 
-        // 保存所有更改到資料庫
+        // Save 方法，統一保存所有更改到資料庫
         public void Save()
         {
-            try
-            {
-                _db.SaveChanges(); // 提交所有更改
-            }
-            catch (DbUpdateException ex)
-            {
-                // 記錄異常資訊（假設有日誌系統）
-                Console.WriteLine($"Error saving changes: {ex.Message}");
-                throw; // 向上拋出異常
-            }
+            _db.SaveChanges();
         }
-
-        // 如果需要事務支持，可以考慮加入以下方法：
-        public void BeginTransaction()
-        {
-            _db.Database.BeginTransaction();
-        }
-
-        public void CommitTransaction()
-        {
-            _db.Database.CommitTransaction();
-        }
-
-        public void RollbackTransaction()
-        {
-            _db.Database.RollbackTransaction();
-        }
-
     }
 }

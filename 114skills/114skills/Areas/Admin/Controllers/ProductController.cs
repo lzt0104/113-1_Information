@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Drawing.Printing;
 using System.Reflection.Emit;
 using TeaDemo.DataAccess.Repository.IRepository;
+using TeaDemo.DataAccess.Repository.IRepository.TeaDemo.DataAccess.Repository.IRepository;
 using TeaDemo.Models;
 using TeaDemo.Models.ViewModels;
 using TeaDemo.Utility;
