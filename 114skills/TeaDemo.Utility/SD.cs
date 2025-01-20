@@ -9,10 +9,21 @@ namespace TeaDemo.Utility
     // 靜態類，用於存放系統中的常量值
     public static class SD
     {
-        // 角色常量，用於定義使用者角色名稱
-        public const string Role_Customer = "顧客"; // 顧客角色
-        public const string Role_Employee = "員工"; // 員工角色
-        public const string Role_Manager = "管理員"; // 管理員角色
-        public const string Role_Admin = "店長"; // 店長角色
+        public const string Role_Customer = "Customer";
+        public const string Role_Employee = "Employee";
+        public const string Role_Manager = "Manager";
+        public const string Role_Admin = "Admin";
+
+        // 等待店家確認訂單 -> 店家確認後改為訂單準備中 -> 店家準備完成後改為訂單完成、可取餐 -> 使用者取餐後改為訂單完成
+
+        public const string StatusPending = "Pending"; // 等待店家確認訂單
+
+        //public const string StatusApproved = "Approved"; 
+        public const string StatusInProcess = "Processing"; // 店家確認後改為訂單準備中
+        public const string StatusCancelled = "Cancelled"; // 店家或顧客取消訂單
+
+
+        public const string StatusReady = "Ready"; // 店家準備完成，顧客可以取餐
+        public const string StatusCompleted = "Completed"; // 顧客取餐及付款後，店家結束訂單
     }
 }

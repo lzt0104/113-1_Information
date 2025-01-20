@@ -16,6 +16,8 @@ namespace TeaDemo.DataAccess
         public DbSet<Product> Products { get; set; } // 產品表
         public DbSet<ShoppingCart> ShoppingCarts { get; set; } // 購物車表
         public DbSet<ApplicationUser> ApplicationUsers { get; set; } // 自定義的使用者表（擴展 IdentityUser）
+        public DbSet<OrderHeader> OrderHeaders { get; set; }
+        public DbSet<OrderDetail> OrderDetails { get; set; }
 
         // 配置模型行為，例如資料的種子（預設值）和關係
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -55,6 +55,8 @@ namespace TeaDemo.DataAccess.Repository.IRepository
             IShoppingCartRepository ShoppingCart { get; }
             // 使用者 Repository
             IApplicationUserRepository ApplicationUser { get; }
+            IOrderHeaderRepository OrderHeader { get; }
+            IOrderDetailRepository OrderDetail { get; }
             // 儲存所有更改
             void Save();
         }

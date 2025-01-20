@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nKGDeDcFNIJXjcmxoYaLUP5Ix9NJ72m3Y8+rx6rVcMM=",
+  "Hash": "faVVm7Euh81D1aHXkB1z9WVO7YEb87IVO+ALu1ECZyc=",
   "Source": "114skills",
   "BasePath": "_content/114skills",
   "Mode": "Default",
@@ -1364,6 +1364,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\ff40cb55-2933-43b7-b944-56229475883c.png"
+    },
+    {
+      "Identity": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\114skills\\wwwroot\\js\\order.js",
+      "SourceId": "114skills",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\114skills\\wwwroot\\",
+      "BasePath": "_content/114skills",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\Users\\zheng_0u83rfc\\OneDrive\\文件\\113-1_Information\\114skills\\114skills\\wwwroot\\js\\product.js",

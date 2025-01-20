@@ -12,7 +12,8 @@ namespace TeaDemo.Models.ViewModels
 
         /// 購物車的總金額
         /// 計算方式為各項商品的價格乘以數量後的總和
-        public double OrderTotal { get; set; }
+        // public double OrderTotal { get; set; }
+        public OrderHeader OrderHeader { get; set; }
 
         // 以下屬性為未來擴展的預留部分，當需要管理訂單標頭時可啟用
         // public required object OrderHeader { get; set; }

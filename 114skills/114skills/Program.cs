@@ -40,6 +40,8 @@ builder.Services.AddRazorPages();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>(); // 注入 UnitOfWork，用於封裝資料庫操作
 builder.Services.AddScoped<IEmailSender, EmailSender>(); // 注入 EmailSender，用於發送電子郵件
 
+
+
 // 可以註冊初始化數據庫的服務（目前被註解）
 // builder.Services.AddScoped<IDbInitializer, DbInitializer>();
 
