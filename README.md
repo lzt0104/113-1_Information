@@ -45,16 +45,6 @@ C:.
     └─lib                            # 外部函式庫
 ```
 
-## 安裝與執行
-
-1. 克隆專案到本地端。
-   ```bash
-   git clone <repository-url>
-   ```
-2. 使用 Visual Studio 開啟專案檔案 `114skills.csproj`。
-3. 根據需求設定 `appsettings.json` 和 `appsettings.Development.json`。
-4. 建置並執行專案。
-
 ## 功能模組
 
 ### Admin 區域
